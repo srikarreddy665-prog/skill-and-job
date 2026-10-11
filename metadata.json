@@ -1,0 +1,6 @@
+{
+  "name": "SkillPulse Agentic AI Skill & Job Analysis",
+  "description": "Autonomous diagnostic skill assessments, mathematical job compatibility matching, and automated upskilling roadmaps powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
